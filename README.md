@@ -7,7 +7,7 @@ Simple Passportjs Authentication with google, github and facebook Strategies
 use this command to install the required npm packages
 
 ```bash
-npm  dotenv express express-session nodemon passport passport-facebook passport-google-oauth2 passport-github2
+npm i dotenv express express-session nodemon passport passport-facebook passport-google-oauth2 passport-github2
 ```
 
 ## .env file
